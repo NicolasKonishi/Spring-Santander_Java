@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Springboot-SantanderDev2024.Springboot-SantanderDev2024.main" target="17" />
+      <module name="Springboot-SantanderDev2024.Springboot-SantanderDev2024.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
