@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca3569b0-ac3c-4c74-b338-008c1c1b41d9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/Springboot-SantanderDev2024/Springboot-SantanderDev2024">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/Springboot-SantanderDev2024/Springboot-SantanderDev2024">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Springboot-SantanderDev2024" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Springboot-SantanderDev2024" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Springboot-SantanderDev2024" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Springboot-SantanderDev2024/Springboot-SantanderDev2024/src/main/java/me/dio/domain/repository/UserRepository.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2if6rckT16VruRzEEBFAeiQJdYN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Springboot-SantanderDev2024 [:Application.main()].executor": "Run",
+    "Gradle.Springboot-SantanderDev2024 [bootJar].executor": "Run",
+    "Gradle.Upgrade Gradle wrapper.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Documentos/Projetos/Springboot/SantanderDevWeek/Springboot-Santander2024"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Application PRD">
+    <configuration name="Application DEV" type="Application" factoryName="Application" temporary="true">
+      <envs>
+        <env name="SPRING_PROFILES_ACTIVE" value="dev" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="me.dio.Application" />
+      <module name="Springboot-SantanderDev2024.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.dio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application PRD" type="Application" factoryName="Application">
+      <envs>
+        <env name="SPRING_PROFILES_ACTIVE" value="prd" />
+        <env name="PGDATABASE" value="railway" />
+        <env name="PGHOST" value="viaduct.proxy.rlwy.net" />
+        <env name="PGPASSWORD" value="WgIPbANWUCwlCTDIXcntXmAwekyWWJpn" />
+        <env name="PGPORT" value="29848" />
+        <env name="PGUSER" value="postgres" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="me.dio.Application" />
+      <module name="Springboot-SantanderDev2024.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.dio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot-SantanderDev2024 [bootJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Springboot-SantanderDev2024/Springboot-SantanderDev2024" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Application PRD" />
+      <item itemvalue="Application.Application DEV" />
+      <item itemvalue="Gradle.Springboot-SantanderDev2024 [bootJar]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Springboot-SantanderDev2024 [bootJar]" />
+        <item itemvalue="Application.Application DEV" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca3569b0-ac3c-4c74-b338-008c1c1b41d9" name="Changes" comment="" />
+      <created>1719869484520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719869484520</updated>
+    </task>
+    <servers />
+  </component>
+</project>
